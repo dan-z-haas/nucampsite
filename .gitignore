@@ -1,3 +1,4 @@
-"Nucamp Notes.odt"
-git-test/
-git-test2/
+node_modules
+index-changed.html
+nucampsite-workspace.code-workspace
+package-lock.json
